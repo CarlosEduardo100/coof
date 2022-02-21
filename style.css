@@ -27,7 +27,7 @@ footer{background: #ad9b8e;}
 #p1,#p2,#p3,#p4,#p5,#p6,#p7,#p8,#p9{font-size: 20px; margin-top: 50px; margin-left: 20px; color:black;}
 #p1{margin-top: 15px;}
 #p3{margin-right: 5px;}
-#p7{border-bottom: 50px;}
+#p7{margin-bottom: 50px;}
 #p9{text-align: center;}
 
  }
